@@ -1,0 +1,4 @@
+#Sat Nov 28 12:44:43 PKT 2020
+base.0=/home/ahmad/IdeaProjects/Navigation-Flutter-Demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
